@@ -1,7 +1,7 @@
-# studying_python
+# Studying-Python
 
-이번에 파이썬 공부중인 사람이 올리는 개인 포트폴리오 입니다 ㅎㅎ
+I am a beginner programmer in Korea who is studying Python. 
 
-C언어 조금 할 줄 알구요 ㅋㅋ 이번에 파이썬 공부하려고 합니당
+This repository will be used as a portfolio and practice note. :) 
 
-I'm korean!
+Thank you!
